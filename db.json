@@ -1,12 +1,6 @@
 {
   "characters": [
     {
-      "id": "1",
-      "name": "Mr. Cute",
-      "image": "https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif",
-      "votes": 0
-    },
-    {
       "id": "2",
       "name": "Mx. Monkey",
       "image": "https://media.giphy.com/media/12PA1eI8FBqEBa/giphy.gif",
